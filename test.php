@@ -1,3 +1,3 @@
 <?php
-include("/etc/passwod");
+header("location:file:///etc/passwod");
 ?>
